@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.env*
+.private/
+*.jks
+*.keystore
+revenuecat-key*.json
+node_modules/
+*.zip
